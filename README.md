@@ -13,6 +13,7 @@
 
 
  <p align="center">
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&redirect=true)
+ 
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
 </p>
 
