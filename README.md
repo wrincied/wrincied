@@ -21,7 +21,7 @@
 
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="30" width="30">
 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="30" width="30">
 
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="30" width="30">
 
