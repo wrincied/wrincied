@@ -3,7 +3,7 @@
 
 <h4 align="center">Top langs 🌐</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrincied&langs_count=10&theme=flat&layout=compact" alt="wrincied Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrincied&langs_count=10&theme=flat&layout=compact" alt="wrincied Top Langs" ></p>
 
 <h4 align="center">Spotify online :musical_keyboard:</h4>
 
