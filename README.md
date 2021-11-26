@@ -27,8 +27,6 @@
 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30" width="30">
 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30" width="30">
-
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
   
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" width="30">
