@@ -11,4 +11,5 @@
 
 <h4 align="center">Spotify online :musical_keyboard:</h4>
 
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=default&bar_color=6d24c6&bar_color_cover=true" alt="wrincied :: Spotify Stats" /></p>
+<!-- <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=default&bar_color=6d24c6&bar_color_cover=true" alt="wrincied :: Spotify Stats" /></p> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&redirect=true)
