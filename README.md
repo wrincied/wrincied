@@ -42,4 +42,9 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<p align="center"><img src=https://github-readme-stats.vercel.app/api?username=wrincied" alt="wrincied :: Profile Stats" /></p>
+
+<h4 align="center">Spotify online :musical_keyboard:</h4>
+https://github-readme-stats.vercel.app/api?username=wrincied
+
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lmm47doiqh7dzr82vco3r5n85&cover_image=true&theme=default&bar_color=6d24c6&bar_color_cover=true" alt="wrincied :: Spotify Stats" /></p>
