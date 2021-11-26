@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/wrincied/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="erfan Instagram Profile" height="30" width="30">
   </a>
-  <p>Wrincied#7047</p>
-  <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="wrincied discord profile">
-</p>
 
 
 <h2 align="center">My stack</h2>
