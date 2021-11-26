@@ -3,14 +3,14 @@
 <p align="center">
 
 
-  <a href="https://t.me/wrincied">
+<!--   <a href="https://t.me/wrincied">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" 
     alt="erfan telegram profile" height="30" width="30">
   </a>
   
   <a href="https://www.instagram.com/wrincied/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="erfan Instagram Profile" height="30" width="30">
-  </a>
+  </a> -->
 
 
 <h2 align="center">My stack</h2>
