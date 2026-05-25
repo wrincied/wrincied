@@ -15,6 +15,8 @@ I am a disciplined software engineer focused on building high-performance, react
 ---
 
 ### 🛠️ Featured Work
+- **[ÖH AI Email Dispatcher](https://github.com/wrincied/oeh-ai-email-dispatcher)** Automated Student Query Handler
+
 - **[Spotify Clone](https://github.com/wrincied/spotify-clone):** Architectural showcase of Angular 21 Signals & Zoneless reactivity.
 - **[Spotify Backend](https://github.com/wrincied/spotify-backend):** Secure Node.js API with custom middleware and "Self-Healing" metadata sync.
 - **[Illustration Catalog](https://github.com/wrincied/Portfolio):** A creative services SPA built with Angular and RxJS.
