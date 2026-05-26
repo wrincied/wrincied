@@ -1,6 +1,6 @@
 # Hi, I'm Arsen Mileuski 🇦🇹
 
-### Junior Full-Stack Developer | Angular 21 Specialist | Industrial Data Science Student
+### Full-Stack Developer | Angular 21 Specialist | Industrial Data Science Student
 
 I am a disciplined software engineer focused on building high-performance, reactive web applications. Currently, I am pursuing **Industrial Data Science at Montanuniversität Leoben**, combining my mathematical background with modern software architecture.
 
